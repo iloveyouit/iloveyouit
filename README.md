@@ -1,8 +1,28 @@
-# 👋 Hi, I'm Rob Loftin
-## Senior IT Guru & Technology Leader
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Rob Loftin
 
-[![Twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/ogmacson)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakeoneuc&show_icons=true&theme=dark)](https://github.com/sneakeoneuc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Senior+IT+Guru+%26+Technology+Leader;Cloud+Architecture+%26+DevOps+Expert;20%2B+Years+of+IT+Experience)](https://git.io/typing-svg)
+
+<div align="center">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/ogmacson?style=social)](https://twitter.com/ogmacson)
+[![GitHub followers](https://img.shields.io/github/followers/sneakeoneuc?style=social)](https://github.com/sneakeoneuc)
+
+</div>
+
+> *Transforming business challenges into technological solutions*
+
+### 🎯 Quick Overview
+- 🌟 **Expertise**: Enterprise Architecture, Cloud Solutions & DevOps
+- 🔧 **Current Focus**: Cloud Infrastructure Optimization & Security
+- 🌱 **Always Learning**: Emerging Technologies & Best Practices
+- 👥 **Leadership**: Building & Mentoring High-Performance IT Teams
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakeoneuc&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sneakeoneuc)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneakeoneuc&theme=github-dark&hide_border=true)](https://github.com/sneakeoneuc)
+
+</div>
 
 ## 💼 Professional Overview
 
@@ -38,8 +58,6 @@ Self-motivated IT professional with extensive experience in enterprise technolog
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📈 GitHub Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneakeoneuc&theme=dark)](https://github.com/sneakeoneuc)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sneakeoneuc&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sneakeoneuc)
 
