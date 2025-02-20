@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/ogmacson?style=social)](https://twitter.com/ogmacson)
-[![GitHub followers](https://img.shields.io/github/followers/sneakeoneuc?style=social)](https://github.com/sneakeoneuc)
+[![GitHub followers](https://img.shields.io/github/followers/iloveyouit?style=social)](https://github.com/iloveyouit)
 
 </div>
 
@@ -19,8 +19,8 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakeoneuc&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sneakeoneuc)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneakeoneuc&theme=github-dark&hide_border=true)](https://github.com/sneakeoneuc)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iloveyouit&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/iloveyouit)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iloveyouit&theme=github-dark&hide_border=true)](https://github.com/iloveyouit)
 
 </div>
 
@@ -59,11 +59,11 @@ Self-motivated IT professional with extensive experience in enterprise technolog
 
 ## 📈 GitHub Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sneakeoneuc&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sneakeoneuc)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iloveyouit&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/iloveyouit)
 
 ## 🏆 Achievements
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sneakeoneuc&theme=dark)](https://github.com/sneakeoneuc)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=iloveyouit&theme=dark)](https://github.com/iloveyouit)
 
 ## 🎯 Current Focus
 
@@ -76,4 +76,4 @@ Self-motivated IT professional with extensive experience in enterprise technolog
 
 💡 *"Technology is the engine of progress, and innovation is its fuel."*
 
-[🐦 Follow me on Twitter](https://twitter.com/ogmacson) | [💻 Check out my repositories](https://github.com/sneakeoneuc)
+[🐦 Follow me on Twitter](https://twitter.com/ogmacson) | [💻 Check out my repositories](https://github.com/iloveyouit)
