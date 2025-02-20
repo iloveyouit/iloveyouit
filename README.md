@@ -19,18 +19,18 @@ Self-motivated IT professional with extensive experience in enterprise technolog
 ## 🛠️ Technical Stack
 
 ### Cloud & Infrastructure
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-light-mode-only){ width=42 height=42 }
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg#gh-light-mode-only){ width=42 height=42 }
-![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg#gh-light-mode-only){ width=42 height=42 }
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42"/>
 
 ### Development & DevOps
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-light-mode-only){ width=42 height=42 }
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg#gh-light-mode-only){ width=42 height=42 }
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg#gh-light-mode-only){ width=42 height=42 }
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/>
 
 ### Systems & Tools
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-light-mode-only){ width=42 height=42 }
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg#gh-light-mode-only){ width=42 height=42 }
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42"/>
 
 ## 📈 GitHub Activity
 
